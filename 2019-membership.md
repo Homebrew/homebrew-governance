@@ -2,6 +2,7 @@
 @amyspark
 @apjanke
 @bfontaine
+@chenrui333
 @claui
 @colindean
 @dpo
