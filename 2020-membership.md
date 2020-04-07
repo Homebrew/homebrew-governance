@@ -5,6 +5,7 @@
 @chenrui333
 @claui
 @colindean
+@core-code
 @dawidd6
 @dpo
 @EricFromCanada
@@ -24,11 +25,13 @@
 @mistydemeo
 @Moisan
 @mxcl
+@ran-dall
 @reitermarkus
 @scpeters
 @Sharpie
 @sjackman
 @SMillerDev
+@suschizu
 @tschoonj
 @tseemann
 @victorpopkov
