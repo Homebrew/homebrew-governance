@@ -14,6 +14,12 @@
 
 # Minutes
 
-- 2020-03-24  
-  Markus Reiter proposed that @core-code, @ran-dall and @suschizu be invited to join Homebrew as members.  
+- 2020-03-24
+  Markus Reiter proposed that @core-code, @ran-dall and @suschizu be invited to join Homebrew as members.
   Motion carried unanimously.
+
+- 2020-03-31
+  Jonathan Chang proposed to approve maintainer grant requests.
+  Motion carried unanimously.
+  Jonathan Chang proposed to increase the total award limit to $2000.
+  tMotion carried unanimously.
