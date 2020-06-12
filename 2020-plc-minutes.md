@@ -22,4 +22,8 @@
   Jonathan Chang proposed to approve maintainer grant requests.
   Motion carried unanimously.
   Jonathan Chang proposed to increase the total award limit to $2000.
-  tMotion carried unanimously.
+  Motion carried unanimously.
+
+- 2020-06-09
+  Jonathan Chang proposed that @gromgit be invited to join Homebrew as members.
+  Motion carried unanimously.
