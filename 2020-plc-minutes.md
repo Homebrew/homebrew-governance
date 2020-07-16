@@ -14,6 +14,9 @@
 
 # Minutes
 
+- 2020-07-10
+  Shaun Jackman proposed that @SeekingMeaning be invited to join Homebrew as members.
+
 - 2020-03-24
   Markus Reiter proposed that @core-code, @ran-dall and @suschizu be invited to join Homebrew as members.
   Motion carried unanimously.
