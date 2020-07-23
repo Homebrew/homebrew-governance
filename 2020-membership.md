@@ -8,6 +8,7 @@
 @core-code
 @dawidd6
 @dpo
+@dtrodrigues
 @EricFromCanada
 @fxcoudert
 @GauthamGoli
