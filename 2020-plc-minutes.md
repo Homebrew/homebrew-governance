@@ -30,3 +30,7 @@
 - 2020-06-09
   Jonathan Chang proposed that @gromgit be invited to join Homebrew as members.
   Motion carried unanimously.
+
+- 2020-08-20
+  The PLC voted that @miccal (4/5 votes in favour, 1 abstention), @whoiswillma (4/5 votes in favour, 1 abstention), 
+  @vidusheeamoli (5/5 votes in favour) and @nandahkrishna (4/5 votes in favour, 1 abstention) be added as members.
