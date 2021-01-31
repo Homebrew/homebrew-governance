@@ -34,3 +34,12 @@
 - 2020-08-20
   The PLC voted that @miccal (4/5 votes in favour, 1 abstention), @whoiswillma (4/5 votes in favour, 1 abstention), 
   @vidusheeamoli (5/5 votes in favour) and @nandahkrishna (4/5 votes in favour, 1 abstention) be added as members.
+
+- 2020-12-08
+  Jonathan Chang proposed that @carlocab be invited to join Homebrew as a member. (3/5 with 2 abstensions)
+
+- 2020-12-24
+  The PLC voted to approve maintainer grant requests. (4/5 with 1 abstention)
+
+- 2021-01-29
+  Jonathan Chang proposed that @danielnachun be invited to join Homebrew as a member. (5/5)

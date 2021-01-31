@@ -6,6 +6,7 @@
 @claui
 @colindean
 @core-code
+@danielnachun
 @dawidd6
 @dpo
 @dtrodrigues
