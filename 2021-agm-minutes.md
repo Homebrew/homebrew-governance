@@ -2,7 +2,7 @@
 
 # Minutes
 
-- 11:00 Call to order
+- 2021-02-26 11:00-0800 Call to order
 - 11:00–11:01 Adoption of the agenda
 
 ## Motions
