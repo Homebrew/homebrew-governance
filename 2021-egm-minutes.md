@@ -1,4 +1,6 @@
-# EGM 2021-01-14
+# Extraordinary General Meeting 2021
+
+# 2021-01-14
 
 Meeting convened at 20:00 UTC.
 
