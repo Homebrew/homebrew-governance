@@ -1,3 +1,3 @@
-# Homebrew Governance
+# Homebrew Governance (deprecated)
 
-Documents related to the governance of Homebrew.
+This contained documents related to the governance of Homebrew.
